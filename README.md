@@ -8,8 +8,29 @@ classificação de clientes e seus respectivos perfis de risco.
 
 ## 📌 Contexto e Objetivos
 
-> Em construção
+O processo de **KYC (Know Your Customer)** é uma etapa regulatória obrigatória 
+no mercado financeiro, presente em bancos, fintechs, corretoras e demais 
+instituições que captam clientes. Seu objetivo central é identificar, analisar 
+e classificar clientes e seus respectivos perfis de risco, garantindo conformidade 
+com as exigências de PLD/FT (Prevenção à Lavagem de Dinheiro e Financiamento 
+ao Terrorismo).
 
+Apesar de sua importância, o KYC ainda representa uma dor operacional real 
+para muitos profissionais — seja pela complexidade regulatória, pelo volume 
+de informações a serem processadas ou pela necessidade de atualização constante 
+frente às normativas vigentes.
+
+O **KYC-Navigator** foi desenvolvido como um caderno temático no NotebookLM, 
+com o objetivo de organizar e centralizar conhecimento relevante sobre o tema, 
+auxiliando profissionais financeiros na consulta e compreensão do processo KYC. 
+A ferramenta não substitui o julgamento profissional — retorna fatos, não verdades.
+
+O caderno foi estruturado para atender dois perfis:
+
+- **Iniciantes** — estagiários e profissionais em início de carreira que buscam 
+compreender os fundamentos do KYC e do ambiente regulatório brasileiro.
+- **Consolidados** — analistas e gestores que necessitam de referências 
+regulatórias e operacionais atualizadas para apoio no dia a dia.
 ---
 
 ## 📚 Curadoria de Fontes
