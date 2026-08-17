@@ -98,8 +98,91 @@ análise e classificação de risco de clientes corporativos.
 
 ## 🧪 Engenharia de Prompts e Cicatrizes
 
-> Em construção
+### Perguntas e Respostas
 
+---
+
+**Prompt 1 — Introdutório**
+> "O que é KYC e qual é o seu papel no mercado financeiro brasileiro?"
+
+**Resumo da resposta:** O NotebookLM definiu KYC como conjunto de procedimentos 
+para identificar, qualificar e classificar clientes, regulamentado pela Circular 
+BACEN 3.978 e Resolução COAF 41. Estruturou o papel do KYC em seis frentes: 
+identificação, beneficiário final, qualificação e risco, monitoramento contínuo, 
+reporte ao COAF e mitigação de riscos institucionais.  
+**Fontes citadas:** Circular BACEN nº 3.978, Resolução COAF nº 41.
+
+---
+
+**Prompt 2 — Regulatório Nacional**
+> "Quais são as obrigações específicas que uma instituição financeira brasileira 
+deve cumprir segundo a Circular BACEN 3.978 no processo de KYC?"
+
+**Resumo da resposta:** A resposta detalhou cinco obrigações principais — 
+identificação de clientes com dados mínimos exigidos, qualificação com análise 
+de PEP, identificação do beneficiário final com limite de 25% de participação, 
+classificação de risco e formalização via manual aprovado pela diretoria.  
+**Fontes citadas:** Circular BACEN nº 3.978.
+
+---
+
+**Prompt 3 — Cruzamento de Fontes**
+> "Como o processo de identificação de beneficiário final de pessoas jurídicas 
+se relaciona com as recomendações do GAFI?"
+
+**Resumo da resposta:** O NotebookLM cruzou duas fontes simultaneamente, 
+relacionando a Circular BACEN 3.978 com as Recomendações 10 e 24 do GAFI. 
+Destacou a abordagem multifacetada do GAFI, os três critérios de qualidade 
+da informação (adequada, acurada e atualizada) e a abordagem baseada em risco.  
+**Fontes citadas:** Circular BACEN nº 3.978, FATF Recommendations, 
+Beneficial Ownership of Legal Persons.
+
+---
+
+**Prompt 4 — Avançado**
+> "Quais são os indicadores de risco que uma instituição financeira deve 
+considerar para classificar um cliente como alto risco no processo de KYC, 
+e como isso impacta os controles aplicados?"
+
+**Resumo da resposta:** Listou indicadores de alto risco — PEP, estruturas 
+societárias complexas, shell companies, clientes não residentes e capacidade 
+financeira incompatível. Detalhou seis medidas de Devida Diligência Reforçada 
+(EDD) aplicáveis, incluindo aprovação hierárquica, monitoramento intensificado 
+e restrições operacionais.  
+**Fontes citadas:** Circular BACEN nº 3.978, FATF Recommendations.
+
+---
+
+**Prompt 5 — Caso Real**
+> "Um novo cliente pessoa jurídica solicitou abertura de conta. Durante o 
+processo de KYC, identificou-se que o beneficiário final é uma Pessoa Exposta 
+Politicamente. Quais são os passos que a instituição deve seguir?"
+
+**Resumo da resposta:** Retornou sete passos sequenciais orientados à decisão 
+— da conclusão da identificação à comunicação específica ao COAF, passando 
+por aprovação hierárquica, verificação de origem dos recursos e monitoramento 
+intensificado. Resposta mais aplicada e próxima do uso real da ferramenta.  
+**Fontes citadas:** Circular BACEN nº 3.978, Resolução COAF nº 41, 
+FATF Recommendations.
+
+---
+
+### ⚠️ Cicatrizes — Dificuldades Encontradas
+
+**1. Processamento inicial lento**
+Na primeira interação, o NotebookLM apresentou demora para retornar a resposta. 
+Comportamento esperado no carregamento inicial das fontes, mas que pode 
+confundir usuários menos familiarizados com a ferramenta.
+
+**2. Limitação de julgamento**
+O caderno retorna fatos baseados nas fontes carregadas — não emite opiniões 
+nem recomendações. Em perguntas mais aplicadas, como o caso do PEP, a resposta 
+é procedimental mas não substitui o julgamento profissional do analista.
+
+**3. Dependência da qualidade das fontes**
+A qualidade das respostas é diretamente proporcional à abrangência das fontes 
+carregadas. Temas não cobertos pelas fontes resultam em respostas incompletas 
+ou ausentes — reforçando a importância de uma curadoria criteriosa.
 ---
 
 ## 📖 Miniguia de Estudo
