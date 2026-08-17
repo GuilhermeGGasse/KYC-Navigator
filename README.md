@@ -104,8 +104,78 @@ análise e classificação de risco de clientes corporativos.
 
 ## 📖 Miniguia de Estudo
 
-> Em construção
+### 📝 Resumos Estruturados
 
+**O que é KYC**
+Conjunto de procedimentos obrigatórios adotados por instituições financeiras 
+para identificar, qualificar e classificar clientes e seus perfis de risco. 
+No Brasil é regulamentado principalmente pela Circular BACEN nº 3.978 e pela 
+Resolução COAF nº 41, alinhadas às recomendações internacionais do GAFI.
+
+**Pilares do KYC**
+O processo se estrutura em cinco frentes: identificação e verificação do 
+cliente, identificação do beneficiário final, qualificação e análise de risco, 
+monitoramento contínuo e subsídio ao reporte de suspeitas ao COAF.
+
+**Beneficiário Final**
+Pessoa natural que em última instância possui ou controla uma pessoa jurídica. 
+A Circular BACEN 3.978 exige que a cadeia societária seja analisada até o 
+limite de 25% de participação. O GAFI reforça esse conceito nas Recomendações 
+10 e 24, exigindo que a informação seja adequada, acurada e atualizada.
+
+**Classificação de Risco**
+Clientes são classificados em categorias de risco — baixo, médio ou alto — 
+com base em seu perfil, localização geográfica e natureza das operações. 
+Clientes de alto risco, como PEPs ou empresas com estruturas societárias 
+complexas, estão sujeitos a Devida Diligência Reforçada (EDD).
+
+**PEP e Devida Diligência Reforçada**
+Pessoas Expostas Politicamente e seus relacionados exigem aprovação hierárquica 
+superior, verificação da origem dos recursos, monitoramento intensificado e 
+comunicação específica ao COAF quando necessário.
+
+---
+
+### 📚 Glossário
+
+| Termo | Definição |
+|---|---|
+| **KYC** | Know Your Customer — processo de identificação, qualificação e classificação de clientes |
+| **PLD/FT** | Prevenção à Lavagem de Dinheiro e ao Financiamento do Terrorismo |
+| **PEP** | Pessoa Exposta Politicamente — agentes públicos e seus relacionados |
+| **Beneficiário Final** | Pessoa natural que efetivamente possui ou controla uma pessoa jurídica |
+| **CDD** | Customer Due Diligence — Devida Diligência do Cliente |
+| **EDD** | Enhanced Due Diligence — Devida Diligência Reforçada, aplicada a clientes de alto risco |
+| **COAF** | Conselho de Controle de Atividades Financeiras — órgão regulador brasileiro de PLD/FT |
+| **GAFI/FATF** | Grupo de Ação Financeira — organismo internacional que define padrões globais de PLD/FT |
+| **BACEN** | Banco Central do Brasil — regulador do sistema financeiro nacional |
+| **Source of Wealth** | Origem do patrimônio do cliente |
+| **Source of Funds** | Origem dos recursos envolvidos nas transações |
+| **Nominee** | Acionista nominal — pessoa que figura como sócio em nome de outra |
+| **Shell Company** | Empresa de fachada sem operações ou ativos reais |
+| **Multi-pronged Approach** | Abordagem multifacetada do GAFI para coleta de informações sobre beneficiários finais |
+
+---
+
+### 🔁 Prompts Reutilizáveis
+
+Perguntas que podem ser usadas para futuras consultas e revisões no KYC-Navigator:
+
+1. "O que é KYC e qual é o seu papel no mercado financeiro brasileiro?"
+
+2. "Quais são as obrigações específicas que uma instituição financeira brasileira 
+deve cumprir segundo a Circular BACEN 3.978 no processo de KYC?"
+
+3. "Como o processo de identificação de beneficiário final de pessoas jurídicas 
+se relaciona com as recomendações do GAFI?"
+
+4. "Quais são os indicadores de risco que uma instituição financeira deve 
+considerar para classificar um cliente como alto risco no processo de KYC, 
+e como isso impacta os controles aplicados?"
+
+5. "Um novo cliente pessoa jurídica solicitou abertura de conta. Durante o 
+processo de KYC, identificou-se que o beneficiário final é uma Pessoa Exposta 
+Politicamente. Quais são os passos que a instituição deve seguir?"
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
