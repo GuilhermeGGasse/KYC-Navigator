@@ -33,6 +33,7 @@ O caderno foi estruturado para atender dois perfis:
 compreender os fundamentos do KYC e do ambiente regulatório brasileiro.
 - **Consolidados** — analistas e gestores que necessitam de referências 
 regulatórias e operacionais atualizadas para apoio no dia a dia.
+
 ---
 
 ## 📚 Curadoria de Fontes
