@@ -4,7 +4,7 @@ Caderno temático desenvolvido no NotebookLM com foco em **KYC (Know Your Custom
 processo regulatório essencial no mercado financeiro para identificação, análise e 
 classificação de clientes e seus respectivos perfis de risco.
 
-[Acessar o KYC-Navigator](https://notebooklm.google.com/seu-link-aqui)
+[Acessar o KYC-Navigator](https://notebook.google.com/notebook/2545cd5e-8ecc-4a7f-94f6-5dbc7c2d94c1?pli=1)
 
 ---
 
